@@ -1,0 +1,19 @@
+# ===== 依赖与构建产物 =====
+node_modules/
+unpackage/
+dist/
+
+# ===== HBuilderX / 编辑器 =====
+.hbuilderx/
+.vscode/
+.idea/
+
+# ===== 系统 =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== 日志 =====
+*.log
+npm-debug.log*
+yarn-error.log*
