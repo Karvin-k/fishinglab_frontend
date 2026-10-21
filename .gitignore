@@ -17,3 +17,7 @@ desktop.ini
 *.log
 npm-debug.log*
 yarn-error.log*
+
+# ===== 临时备份文件 =====
+*.bak
+*.orig
